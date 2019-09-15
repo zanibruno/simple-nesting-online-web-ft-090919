@@ -20,7 +20,11 @@ programmer_hash[:grace_hopper]
 end
 
 def alan_kay_is_known_for
+<<<<<<< HEAD
 	
+=======
+	alan_kay_is_known_for[:alan_kay][:known_for]
+>>>>>>> 8764b794cb2dc7bc7537d99fa3afe12ec936f313
 	
 	programmer_hash = 
  		{
